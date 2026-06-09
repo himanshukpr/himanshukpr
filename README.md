@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on<br>AI-powered financial management & analytics platforms<br><br>🤝 I’m looking to collaborate on<br>React / Next.js projects, SaaS products, and innovative web apps<br><br>🙌 I’m looking for help with<br>Advanced system architecture, scaling backend systems, and cloud deployment<br><br>🌱 I’m currently learning<br>Building robust full-stack systems with efficient databases and scalable architecture<br><br>💬 Ask me about<br>React.js, Next.js, Tailwind CSS, UI/UX design, and full-stack development<br><br>⚡ Fun fact<br>I enjoy turning complex ideas into clean, interactive digital experiences
+🛠️ I’m currently working on<br>AI-powered financial management & analytics platforms<br><br>🤝 I’m looking to collaborate on<br>React / Next.js projects, SaaS products, and innovative web apps<br><br>🌱 I’m currently learning<br>Building robust full-stack systems with efficient databases and scalable architecture<br><br>💬 Ask me about<br>React.js, Next.js, Tailwind CSS, UI/UX design, and full-stack development<br><br>⚡ Fun fact<br>I enjoy turning complex ideas into clean, interactive digital experiences
 
 
 ## 🌐 Socials:
